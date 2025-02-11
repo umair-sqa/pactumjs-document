@@ -1,5 +1,15 @@
 # PactumJS Setup Guide
 
+## Pre-requisites
+
+Before setting up PactumJS, ensure you have the following installed:
+
+- **Node.js** (latest LTS version recommended) - Download from [nodejs.org](https://nodejs.org/)
+- **npm** (comes with Node.js) - Check with `npm -v`
+- **TypeScript** (if using TypeScript) - Install with `npm install -g typescript`
+- **Jest** for testing - Installed as a dev dependency
+
+
 ## Project Structure
 
 Organize your project as follows:
